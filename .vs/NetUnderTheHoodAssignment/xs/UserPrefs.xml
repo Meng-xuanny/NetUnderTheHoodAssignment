@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6B7C91E6-974C-48A0-A161-14A245015963}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NetUnderTheHoodAssignment/NewSolution/FastRow.cs">
+    <Files>
+      <File FileName="NetUnderTheHoodAssignment/NewSolution/FastRow.cs" Line="33" Column="12" />
+      <File FileName="NetUnderTheHoodAssignment/OldSolution/Row.cs" Line="21" Column="2" />
+      <File FileName="NetUnderTheHoodAssignment/OldSolution/TableDataBuilder.cs" Line="1" Column="1" />
+      <File FileName="NetUnderTheHoodAssignment/NewSolution/FastTableData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetUnderTheHoodAssignment" expanded="True">
+            <Node name="NetUnderTheHoodAssignment" expanded="True">
+              <Node name="CsvReading" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="NewSolution" expanded="True">
+                <Node name="FastRow.cs" selected="True" />
+              </Node>
+              <Node name="PerformanceTesting" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NetUnderTheHoodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

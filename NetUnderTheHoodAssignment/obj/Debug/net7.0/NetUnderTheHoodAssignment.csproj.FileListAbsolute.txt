@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.deps.json
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.runtimeconfig.json
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.dll
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/bin/Debug/net7.0/NetUnderTheHoodAssignment.pdb
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.AssemblyInfo.cs
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.dll
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/refint/NetUnderTheHoodAssignment.dll
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.pdb
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/NetUnderTheHoodAssignment.genruntimeconfig.cache
+/Users/mengxuan/Projects/NetUnderTheHoodAssignment/NetUnderTheHoodAssignment/obj/Debug/net7.0/ref/NetUnderTheHoodAssignment.dll
